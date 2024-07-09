@@ -1,0 +1,14 @@
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\bin\Debug\net8.0\WeatherHelper.exe
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\bin\Debug\net8.0\WeatherHelper.deps.json
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\bin\Debug\net8.0\WeatherHelper.runtimeconfig.json
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\bin\Debug\net8.0\WeatherHelper.dll
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\bin\Debug\net8.0\WeatherHelper.pdb
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\obj\Debug\net8.0\WeatherHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\obj\Debug\net8.0\WeatherHelper.AssemblyInfoInputs.cache
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\obj\Debug\net8.0\WeatherHelper.AssemblyInfo.cs
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\obj\Debug\net8.0\WeatherHelper.csproj.CoreCompileInputs.cache
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\obj\Debug\net8.0\WeatherHelper.dll
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\obj\Debug\net8.0\refint\WeatherHelper.dll
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\obj\Debug\net8.0\WeatherHelper.pdb
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\obj\Debug\net8.0\WeatherHelper.genruntimeconfig.cache
+C:\Users\Ghidella\Documents\weather_app\WeatherHelper\obj\Debug\net8.0\ref\WeatherHelper.dll
